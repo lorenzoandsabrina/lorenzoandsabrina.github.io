@@ -22,8 +22,12 @@ section, summary, time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: inherit;
+	/* font: inherit; */
+	/* font-family: 'EB Garamond', serif; */
+	font-family: 'Roboto Slab', serif;
 	vertical-align: baseline;}
+
+/* h2 {font-family: 'Satisfy', cursive;} */
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -8601,3 +8605,12 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+/* h1 { */
+	/* font-family: 'Scope One', serif; */
+	/* font-family: 'EB Garamond', serif; */
+	/* font-family: 'Playfair Display', serif; */
+	/* font-family: 'Alex Brush', cursive; */
+	/* font-family: 'Great Vibes', cursive; */
+	/* font-family: 'Cormorant Garamond', serif; */
+/* } */
