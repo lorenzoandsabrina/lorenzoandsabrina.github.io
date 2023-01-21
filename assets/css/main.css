@@ -2641,11 +2641,14 @@ input, select, textarea {
 		.image img {
 			display: block;
 			border-radius: 4px;
+			max-width: 100%;
+			max-height: 100%;
 		}
 
 		.image.left, .image.right {
 			width: 40%;
-			max-width: 10rem;
+			max-width: 100%;
+			max-height: 100%;
 		}
 
 			.image.left img, .image.right img {
